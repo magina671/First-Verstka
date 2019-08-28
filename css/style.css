@@ -1,0 +1,25 @@
+.header {
+  /* Style for "фон под ша" */
+  height: 207px;
+  background-color: #ffffff;
+}
+.header-text {
+  width: 356px;
+  height: 46px;
+  color: #363636;
+  font-family: "Panton - Extra Bold";
+  font-size: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+}
+.header-number {
+  /* Style for "8 (843) 99" */
+  width: 262px;
+  height: 31px;
+  color: #363636;
+  font-family: "Panton - Extra Bold";
+  font-size: 30px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
